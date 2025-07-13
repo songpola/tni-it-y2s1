@@ -37,7 +37,7 @@
             env = [
               {
                 name = "TYPST_FONT_PATHS";
-                value = "./font";
+                value = "./fonts";
               }
             ];
           };
